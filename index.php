@@ -77,7 +77,7 @@ require('template/openProduct.php');
         <div id="contacts">
             <div class="contactWrap">
                 <img src="images/envelope.svg" class="contactIcon">
-                info@brandshop.ru
+                info@testshop.ru
             </div>
             <div class="contactWrap">
                 <img src="images/phone-call.svg" class="contactIcon">
@@ -85,7 +85,7 @@ require('template/openProduct.php');
             </div>
             <div class="contactWrap">
                 <img src="images/placeholder.svg" class="contactIcon">
-                Москва, пр-т Ленина, д. 1 офис 304
+                Украина, пр-т Ленина, д. 1 офис 304
             </div>
         </div>
 
@@ -100,7 +100,7 @@ require('template/openProduct.php');
             <img class="socialItem" src="images/facebook-logo.svg">
         </div>
 
-        <div id="copyrights">&copy; Brandshop</div>
+        <div id="copyrights">&copy; test-shop</div>
     </div>
 </footer>
 
